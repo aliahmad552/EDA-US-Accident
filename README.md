@@ -60,6 +60,14 @@ The US Accident dataset contains data collected from various sources such as tra
 
 ---
 
+
+# Made By
+- github_name:
+**aliahmad552**
+- linked:
+**https://linkedin.com/ali-ahmad-dawana**
+---
+
 ## 🚀 How to Run
 
 1. Clone the repository  
@@ -67,10 +75,5 @@ The US Accident dataset contains data collected from various sources such as tra
 git clone https://github.com/aliahmad552/US-Accident-Report.git
 cd US-Accident-Report
 
-## Made By
-github_name:
-**aliahmad552**
-linked:
-**https://linkedin.com/ali-ahmad-dawana**
 
 
