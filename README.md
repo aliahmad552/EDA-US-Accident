@@ -27,6 +27,7 @@ The US Accident dataset contains data collected from various sources such as tra
 - Pandas, NumPy  
 - Matplotlib, Seaborn, Plotly  
 - Jupyter Notebook
+- Streamlit(dashboard)
 
 ---
 
@@ -55,6 +56,7 @@ The US Accident dataset contains data collected from various sources such as tra
 - **Weather conditions** like fog and rain slightly increase accident risk.
 - Majority of accidents are of **severity level 2** (moderate).
 - **Fridays** and **Mondays** show high accident counts.
+- There are **60** insights in the notebook and aslo in dashboard 
 
 ---
 
@@ -64,3 +66,11 @@ The US Accident dataset contains data collected from various sources such as tra
 ```bash
 git clone https://github.com/aliahmad552/US-Accident-Report.git
 cd US-Accident-Report
+
+## Made By
+github_name:
+**aliahmad552**
+linked:
+**https://linkedin.com/ali-ahmad-dawana**
+
+
