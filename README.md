@@ -65,7 +65,7 @@ The US Accident dataset contains data collected from various sources such as tra
 - github_name:
 **aliahmad552**
 - linked:
-**https://linkedin.com/ali-ahmad-dawana**
+**https://www.linkedin.com/in/ali-ahmad-dawana/**
 ---
 
 ## 🚀 How to Run
